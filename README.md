@@ -1,5 +1,6 @@
 About Me
-Hi there! 👋 I'm Petar Rajić, an aspiring Data Scientist passionate about solving problems with data and continuously learning to expand my skillset. With a background in management and expertise in Python, data analysis, and visualization, I am on a journey to combine technical skills with creative problem-solving.
+Hi there!
+👋 I'm Petar Rajić, an aspiring Data Scientist passionate about solving problems with data and continuously learning to expand my skillset. With a background in management and expertise in Python, data analysis, and visualization, I am on a journey to combine technical skills with creative problem-solving.
 
 Skills & Technologies
 Programming Languages: Python, SQL, R (basic knowledge)
@@ -13,20 +14,21 @@ Professional Development:
 IBM Data Science Professional Certificate (In Progress)
 Python for Everybody Specialization (Certificate)
 Experience
-Manager in the Music Industry (08/2021 – 03/2023):
 
+Manager in the Music Industry (08/2021 – 03/2023):
 Organized live performances and managed music production for a band.
 Utilized data-driven strategies to increase audience engagement.
 Boosted social media presence through KPI analysis and content optimization.
+
 President, Nonprofit Organization 'Robin' (10/2022 – 06/2023):
-
 Led initiatives to support young musicians through nonprofit programs.
-Intern, Sarajevski Kiseljak:
 
+Intern, Sarajevski Kiseljak:
 Gained comprehensive insights into business management during a 40-day internship.
 Projects
+
 To-Do List Application:
-A Python-based application for managing tasks efficiently, offering features like task categorization, prioritization, and progress tracking.
+A simple Python-based application for managing tasks.
 
 Web Spider:
 A script designed to crawl and scrape data from web pages, gathering and processing useful information.
