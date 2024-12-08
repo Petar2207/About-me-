@@ -33,7 +33,7 @@ Hi there! 👋 I'm **Petar Rajić**, an aspiring Data Scientist passionate about
 ## Projects
 
 - **To-Do List Application:**  
-  A Python-based application for managing tasks efficiently, offering features like task categorization, prioritization, and progress tracking.  
+  A simple Python-based application for managing tasks efficiently.  
 
 - **Web Spider:**  
   A script designed to crawl and scrape data from web pages, gathering and processing useful information.  
