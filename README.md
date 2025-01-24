@@ -17,7 +17,7 @@ Hi there! 👋 I'm **Petar Rajić**, an aspiring Marketing Analyst passionate ab
 - **Professional Development:**  
   - IBM Data Science Professional Certificate  
   - Python for Everybody Specialization ([Certificate](https://coursera.org/share/ab4302f364254981da1f9c2b4ac06c16))
-  - -	Google Data Analytics ([Certifikat](https://coursera.org/share/0e138239cac9c397399c3080272b78ed))
+  - Google Data Analytics ([Certifikat](https://coursera.org/share/0e138239cac9c397399c3080272b78ed))
   
 ## Experience
 
